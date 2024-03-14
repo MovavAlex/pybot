@@ -1,24 +1,16 @@
-# man_nature = ['Ухаживать за животными']
+import random
 #
+# man_nature = ['man_nature1', 'man_nature2','man_nature3', 'man_nature4']
+# man_man = ['man_man1','man_man2','man_man3','man_man4', 'man_man5']
+# man_tech = ['man_tech','man_tech2','man_tech3','man_tech4','man_tech5']
+# man_sign_system = ['man_sign_system1','man_sign_system2','man_sign_system3','man_sign_system4','man_sign_system5']
+# man_artist_image = ['man_artist_image1','man_artist_image2','man_artist_image3','man_artist_image4','man_artist_image5']
 #
-# man_man = ['Помогать больным людям, лечить их']
-#
-#
-# man_tech = ['Обслуживать машины, приборы (следить, регулировать)']
-#
-# man_sign_system = ['Составлять таблицы, схемы, программы вычислительных машин']
-#
-# man_artist_image = ['Следить за качеством книжных иллюстраций, плакатов, художественных открыток, грампластинок', 'Играть на сцене, принимать участие в концертах']
-
-
-# man_nature = ['man_nature1', 'man_nature2']
-# man_man = ['man_man']
-# man_tech = ['man_tech']
-# man_sign_system = ['man_sign_system']
-# man_artist_image = ['man_artist_image']
 
 
 
+
+#
 man_nature = ['Ухаживать за животными',
               'Следить за состоянием, развитием растений',
               'Выращивать молодняк (животных какой-либо породы)',
